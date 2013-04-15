@@ -1,5 +1,5 @@
 def main
-  puts "Y U NO WORK"
+  puts " U NO WORK"
   return 0
 end
 
