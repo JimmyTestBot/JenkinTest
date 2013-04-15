@@ -1,5 +1,5 @@
 def main
-  puts "No way"
+  puts "Y U NO WORK"
   return 0
 end
 
